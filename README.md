@@ -1,7 +1,7 @@
 # Intro to Git
 
 ## English
-The project, which was created for implementation step-by-step guidelines for learning Git.
+The project, which was created for implementation step-by-step guidelines for learning Gitsev.
 
 Materials in English:
 *   [Getting started with Git: a comprehensive guide for newbies](https://codegym.cc/groups/posts/379-getting-started-with-git-a-comprehensive-guide-for-newbies)
